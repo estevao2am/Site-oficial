@@ -19,7 +19,7 @@ function services() {
 						<div className="flex justify-center items-center cursor-pointer">
 						<a
             href="https://www.instagram.com/estevao2am/"
-            target="_blank">
+            >
             
           	<FaInstagram className="w-10 h-10 bg-yellow-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" /></a>
 							<h2 className="text-xl text-indigo-600 font-semibold">
@@ -36,7 +36,7 @@ function services() {
 						<div className="flex justify-center items-center cursor-pointer">
 						<a
             href="https://www.github.com/estevao2am"
-            target="_blank">
+            >
           	<FaGithub className="w-10 h-10 bg-red-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" /></a>
 							<h2 className="text-xl text-indigo-600 font-semibold">
 						
@@ -55,7 +55,7 @@ function services() {
 						<div className="flex justify-center items-center cursor-pointer">
 						<a
             href="https://www.twitter.com/estevao2am"
-            target="_blank"><FaTwitter className="w-10 h-10 bg-blue-500 text-gray-100 m-3 p-1 shadow-xl rounded-md" /></a>
+            ><FaTwitter className="w-10 h-10 bg-blue-500 text-gray-100 m-3 p-1 shadow-xl rounded-md" /></a>
 							
 						</div>
 						<p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
@@ -67,7 +67,7 @@ function services() {
 					<div className="flex flex-col justify-center items-center">
 						<div className="flex justify-center items-center cursor-pointer">
 							
-						<a	 href="https://www.instagram.com/estevao2am"target="_blank">
+						<a	 href="https://www.instagram.com/estevao2am">
 							 
 							<FaLinkedin  className="w-10 h-10 bg-blue-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
 							
