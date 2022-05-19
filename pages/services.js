@@ -11,7 +11,7 @@ function services() {
 		<Element id="services" name="services">
 			<div className="w-full my-40 h-auto flex flex-col justify-center items-center ">
 				<h1 className="text-indigo-400 text-5xl font-bold text-center">
-				Acompanhe - me 
+				Acompanhe - 
 				</h1>
 				<div className="flex justify-items-start items-center mx-40 gap-10 mt-20">
 					<div className="flex  flex-col justify-center items-center">
