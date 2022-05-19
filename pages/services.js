@@ -6,6 +6,8 @@ import { Element } from "react-scroll";
 
 function services() {
 	return (
+
+		
 		<Element id="services" name="services">
 			<div className="w-full my-40 h-auto flex flex-col justify-center items-center ">
 				<h1 className="text-indigo-400 text-5xl font-bold text-center">
@@ -17,8 +19,8 @@ function services() {
 						<div className="flex justify-center items-center cursor-pointer">
 						<a
             href="https://www.instagram.com/estevao2am/"
-            target="_blank"
-            >
+            target="_blank">
+            
           	<FaInstagram className="w-10 h-10 bg-yellow-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" /></a>
 							<h2 className="text-xl text-indigo-600 font-semibold">
 								
